@@ -1,0 +1,129 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="co.playtech.otrosproductosrd.activities.ConfiguracionActivity">
+
+    <include
+        layout="@layout/app_bar_main"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+    </include>
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:textColor="@color/colorPrimaryText"
+        android:textStyle="bold"
+        android:layout_height="wrap_content"
+        android:text="@string/lblTitleConfiguracion"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblIp"
+            android:textColor="@color/colorSecondaryText"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etIp"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_ip"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="15dp"
+            android:layout_marginLeft="120dp"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblPort"
+            android:textColor="@color/colorSecondaryText"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etPuerto"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_port"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="120dp"
+            android:paddingLeft="15dp"
+            android:inputType="number"
+            android:maxLength="6"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblPrinter"
+            android:textColor="@color/colorSecondaryText"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etMacPrinter"
+            android:singleLine="true"
+            android:focusable="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_printer"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="120dp"
+            android:paddingLeft="15dp"
+            android:inputType="number"
+            android:maxLength="6"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:drawableRight="@drawable/ic_add_24dp"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnSaveConfig"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:text="@string/btn_guardar"
+        android:background="@drawable/selector_buttton"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+
+
+</LinearLayout>

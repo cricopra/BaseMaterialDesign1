@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Tombola</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_bet">Apostar</string>
+    <string name="action_load_ticket">Cargar tiquete</string>
+    <string name="action_loterias">Loterias</string>
+    <string name="action_total">Total</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_yes">Si</string>
+    <string name="btn_no">No</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_adicionar">Adicionar</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="btn_anular">Anular</string>
+    <string name="btn_recargar">Recargar</string>
+    <string name="btn_imprimir">Imprimir</string>
+    <string name="lblNumero">NUMERO</string>
+    <string name="lblOperador">OPERADOR</string>
+    <string name="lblValor">VALOR</string>
+    <string name="lblProducto">PRODUCTO</string>
+    <string name="lblTitleCambiarClave">MODIFICACION DE CLAVE</string>
+    <string name="lblTitleApostar">REALICE SU APUESTA</string>
+    <string name="lblTitleEditar">EDICIÓN</string>
+    <string name="lblTitleConfiguracion">CONFIGURACIÓN</string>
+    <string name="lblTitleTotalVenta">TOTAL VENTA</string>
+    <string name="lblTitleResultados">CONSULTA RESULTADOS</string>
+    <string name="lblTitleLoadBet">CARGAR ULTIMA APUESTA</string>
+    <string name="lblTitleTicketValid">TIQUETE VALIDO</string>
+    <string name="lblTitleLoterias">LOTERIAS</string>
+    <string name="lblTitleDevicesBluetooth">DISPOSITIVOS BLUETOOTH</string>
+    <string name="lblTitleRecargas">RECARGAS</string>
+    <string name="lblAutenticar">INICIAR SESIÓN</string>
+    <string name="lblModificar">MODIFICAR</string>
+    <string name="lblConsultar">CONSULTAR</string>
+    <string name="lblVerificar">VERIFICAR</string>
+    <string name="lblAnular">ANULAR</string>
+    <string name="lblSerie">SERIE</string>
+    <string name="lblCodigo">CODIGO</string>
+    <string name="lblConsecutivo">CONSECUTIVO</string>
+    <string name="lblUltimaRecarga">ULTIMA RECARGA</string>
+    <string name="lblTotalVentaRecarga">TOTAL VENTA</string>
+    <string name="lblFecha">FECHA</string>
+    <string name="lblCupoDisponible">CUPO DISPONIBLE</string>
+    <string name="lblVentaHoy">VENTA HOY</string>
+    <string name="lblClaveActual">Clave</string>
+    <string name="lblClaveNueva">Nueva</string>
+    <string name="lblClaveRepite">Repita</string>
+    <string name="lblExitSession">¿ Desea cerrar la sessión ?</string>
+    <string name="lblConfiguracion">Configuración</string>
+    <string name="lblIp">IP</string>
+    <string name="lblPort">PUERTO</string>
+    <string name="lblPrinter">IMPRESORA</string>
+    <string name="lblVersion">Vers. </string>
+
+    <string name="msj_completar_campos">Complete los sgtes campos</string>
+    <string name="msj_campo_requerido">Campo requerido</string>
+    <string name="msj_longitud_no_valida">Longitud no valida</string>
+    <string name="msj_proceso_exitoso">Proceso Exitoso</string>
+    <string name="msj_seleccione_loterias">Por favor seleccione loterias</string>
+    <string name="msj_seleccione_items">Por favor adicione al menos un item</string>
+    <string name="msj_ticket_invalid">Tiquete no valido</string>
+    <string name="msj_press_back_again">Pulse nuevamente atras para salir</string>
+    <string name="msj_password_invalid">La nueva clave no coincide en los campos</string>
+    <string name="msj_password_current_invalid">La clave actual no coincide con la ingresada</string>
+    <string name="msj_password_admin_invalid">La clave es incorrecta</string>
+    <string name="msj_device_connect">Dispositivo conectado</string>
+    <string name="msj_device_no_connect">Dispositivo desvinculado</string>
+    <string name="msj_no_printer">Recuerde vincular alguna impresora</string>
+    <string name="msj_fail_refresh_form">Error limpiando el formulario</string>
+    <string name="msj_pay_prize">¿ Desea realizar el pago del premio ?</string>
+    <string name="msj_pay_prize_success">El Pago de $ {1} para el ticket ganador numero {2}-{3} ha sido aprobado</string>
+    <string name="msj_question_ticket_win">¿ Desea consultar si es ganador ?</string>
+    <string name="msj_nullify_reload">¿ Desea anular la recarga ?</string>
+    <string name="msj_empty_reload">No se han encontrado recargas</string>
+    <string name="msj_empty_bet">¡ Realice su apuesta !</string>
+
+    <!-- Loading Popup -->
+    <string name="load_search_devices">Buscando dispositivos</string>
+    <string name="load_autenticando">Validando usuario</string>
+    <string name="load_recharge_last">Consultando ultima recarga</string>
+    <string name="load_proveedores_recarga">Consultando proveedores de recarga</string>
+    <string name="load_change_password">Realizando cambio de clave</string>
+    <string name="load_info_empresa">Consultando información de la empresa</string>
+    <string name="load_loterias">Consultando loterias</string>
+    <string name="load_sale">Realizando apuesta</string>
+    <string name="load_ticket_win">Consultando tiquete ganador</string>
+    <string name="load_print">Imprimiendo</string>
+    <string name="load_best_last">Cargando ultima apuesta</string>
+    <string name="load_recarga_sale">Realizando recarga</string>
+    <string name="load_total_sale">Consultando total venta</string>
+    <string name="load_pay_prize">Pagando premio ganador</string>
+    <string name="load_latest_reload">Consultando ultiama recargas</string>
+    <string name="load_nullify_latest_reload">Anulando recarga</string>
+
+    <string name="title_banca">Banca</string>
+    <string name="title_anulacion">Anulación</string>
+
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="hint_codigo_tiquete">Codigo del tiquete</string>
+    <string name="hint_serie">Ej.123456</string>
+    <string name="hint_consecutivo">Ej.01234</string>
+    <string name="hint_celular">Ej.3171234567</string>
+    <string name="hint_valor">Ej.$10000</string>
+    <string name="hint_clave_actual">Clave actual</string>
+    <string name="hint_clave_nueva">Nueva clave</string>
+    <string name="hint_clave_repite">Confirme clave</string>
+    <string name="hint_clave_admin">Ingrese Clave</string>
+    <string name="hint_printer">Toque para agregar</string>
+    <string name="hint_port">Ingrese Puerto</string>
+    <string name="hint_ip">Ingrese IP</string>
+    <string name="hint_date_init">Fecha inicial</string>
+    <string name="hint_date_end">Fecha final</string>
+    <string name="hint_date">Fecha</string>
+
+    <string-array name="array_productos">
+        <item>QUINELA</item>
+        <item>PALE</item>
+        <item>TRIPLETA</item>
+        <item>SUPER PALE</item>
+    </string-array>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- Printer -->
+
+    <string name="print_vendedor">Ven: </string>
+    <string name="print_maquina">Maq: </string>
+    <string name="print_id">Id: </string>
+    <string name="print_fecha">Fecha: </string>
+    <string name="print_hora">Hora: </string>
+    <string name="print_de">De: </string>
+    <string name="print_hasta">Hasta: </string>
+    <string name="print_celular">Celular: </string>
+    <string name="print_valor">Valor: </string>
+    <string name="print_factura">Factura: </string>
+    <string name="print_operardor">Operador: </string>
+    <string name="print_ticket">Ticket: </string>
+    <string name="print_detalle_apuesta">DETALLE APUESTA</string>
+    <string name="print_titulo_numero">NUMERO</string>
+    <string name="print_titulo_valor">VALOR</string>
+    <string name="print_titulo_reporte_ganador">REPORTE TIQUETE GANADOR</string>
+    <string name="print_titulo_resumen_recarga">RESUMEN RECARGA</string>
+    <string name="print_titulo_reporte_ventas">REPORTE DE VENTAS</string>
+    <string name="print_titulo_resumen_loterias">RESUMEN LOTERIAS</string>
+    <string name="print_titulo_resumen_total">RESUMEN TOTAL</string>
+    <string name="print_cabecera_ganadores">Num   Loter  Modal  Valor  Premi</string>
+    <string name="print_cabecera_quinela">==== QUINELA =====</string>
+    <string name="print_cabecera_pale">====== PALE ======</string>
+    <string name="print_cabecera_tripleta">==== TRIPLETA ====</string>
+    <string name="print_cabecera_super_pale">==== SUP_PALE ====</string>
+    <string name="print_venta">Venta.......:$</string>
+    <string name="print_comision">Comision....:$</string>
+    <string name="print_anulaciones">Anulaciones.:$</string>
+    <string name="print_ganancias">Ganancias...:$</string>
+    <string name="print_venta_bruta">VentaBruta..:$</string>
+    <string name="print_venta_neta">VentaNeta...:$</string>
+    <string name="print_total_ganadores">TotGanadores:$</string>
+    <string name="print_aprobacion">Aprobacion:</string>
+
+    <!--Titles Tabs-->
+    <string name="tab_verificacion">Verificación</string>
+    <string name="tab_verificacion_ganador">Ganador</string>
+
+
+</resources>

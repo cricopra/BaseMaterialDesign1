@@ -1,0 +1,126 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.playtech.otrosproductosrd.fragments.CambiarClaveFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lblTitleCambiarClave"
+        android:textColor="@color/colorPrimaryText"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:minHeight="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblClaveActual"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="20dp" />
+
+        <EditText
+            android:id="@+id/etClaveActual"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_clave_actual"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="false"
+            android:paddingLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:singleLine="true"
+            android:inputType="numberPassword" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:minHeight="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblClaveNueva"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/etClaveNueva"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_clave_nueva"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="false"
+            android:paddingLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:singleLine="true"
+            android:inputType="numberPassword"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:minHeight="30dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblClaveRepite"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="20dp"/>
+
+        <EditText
+            android:id="@+id/etClaveRepite"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_clave_repite"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="false"
+            android:paddingLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:singleLine="true"
+            android:inputType="numberPassword"/>
+
+    </RelativeLayout>
+    <Button
+        android:id="@+id/btnCambiarClave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lblModificar"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/selector_buttton"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

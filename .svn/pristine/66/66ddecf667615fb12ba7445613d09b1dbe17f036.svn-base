@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:2:1-44:12
+	xmlns:android
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:11:5-42:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:13:9-48
+	android:theme
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:16:9-52
+activity#co.playtech.otrosproductosrd.activities.SplashActivity
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:17:9-28:20
+	android:screenOrientation
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:22:13-74
+	android:theme
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:18:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:26:27-74
+activity#co.playtech.otrosproductosrd.activities.MainActivity
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:screenOrientation
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:31:13-45
+	android:configChanges
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:30:13-52
+activity#co.playtech.otrosproductosrd.activities.ConfiguracionActivity
+ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:36:9-41:20
+	android:screenOrientation
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:39:13-49
+	android:configChanges
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml:37:13-61
+uses-sdk
+INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] C:\Desarrollo\Movil\Android\OtrosProductosRD\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Desarrollo\Movil\Android\OtrosProductosRD\app\src\main\AndroidManifest.xml

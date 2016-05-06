@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_devices.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\item_devices.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_item_banca.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_item_banca.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_consultas_recargas.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_consultas_recargas.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_editar_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_editar_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_consultas_recarga.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_consultas_recarga.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_banca.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_banca.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_verificacion_tiquete.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_verificacion_tiquete.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configuracion.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\activity_configuracion.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pupup_load_bet.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\pupup_load_bet.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_venta_recarga.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_venta_recarga.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_banca.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\item_banca.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_verificacion_tiquete_ganador.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_verificacion_tiquete_ganador.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_loterias.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_loterias.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_autenticar.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_autenticar.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_cambiar_clave.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_cambiar_clave.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_verificacion_main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_verificacion_main.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_admin.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_admin.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_devices.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\popup_devices.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_loteria.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\item_loteria.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_splash.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    }
+]

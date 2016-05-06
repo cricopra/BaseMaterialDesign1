@@ -1,0 +1,84 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="co.playtech.otrosproductosrd.fragments.VerificacionTiqueteFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/margin_login"
+        android:layout_marginRight="@dimen/margin_login"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblSerie"
+            android:textColor="@color/colorPrimaryText"
+            android:textStyle="bold"
+            android:paddingLeft="@dimen/fab_margin"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etSerieTiqueteGanador"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_serie"
+            android:inputType="number"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_marginLeft="@dimen/margin_bottom_login"
+            android:singleLine="true"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/margin_login"
+        android:layout_marginRight="@dimen/margin_login"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblConsecutivo"
+            android:textColor="@color/colorPrimaryText"
+            android:textStyle="bold"
+            android:paddingLeft="@dimen/fab_margin"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+        <EditText
+            android:id="@+id/etConsecutivoTiqueteGanador"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_consecutivo"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:singleLine="true"
+            android:inputType="number"
+            android:layout_marginLeft="@dimen/margin_bottom_login"
+            android:gravity="center"/>
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btnVerificarTiqueteGanador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lblVerificar"
+        android:layout_marginLeft="@dimen/margin_login"
+        android:layout_marginRight="@dimen/margin_login"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:background="@drawable/selector_buttton"/>
+
+</LinearLayout>

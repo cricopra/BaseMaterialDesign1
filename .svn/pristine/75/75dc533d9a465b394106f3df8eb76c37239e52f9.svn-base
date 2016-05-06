@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_total"
+        android:title="@string/action_total"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_help"/>
+
+    <item
+        android:id="@+id/action_loterias"
+        android:title="@string/action_loterias"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_loteria_white"/>
+
+    <item
+        android:id="@+id/action_bet"
+        android:title="@string/action_bet"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_banca_white"/>
+
+    <item
+        android:id="@+id/action_load_bet"
+        android:title="@string/action_load_ticket"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_revert"/>
+
+</menu>

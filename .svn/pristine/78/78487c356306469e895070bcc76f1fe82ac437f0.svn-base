@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\background.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\nav_header_main.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\nav_header_main.png"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\icon_luncher_app.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\icon_luncher_app.png"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\header_login.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\header_login.png"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\tombola.png",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\mipmap-hdpi\\tombola.png"
+    }
+]

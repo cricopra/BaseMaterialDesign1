@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_banca"
+            android:icon="@drawable/ic_banca_black"
+            android:title="Banca" />
+        <item
+            android:id="@+id/nav_verificacion"
+            android:icon="@drawable/ic_verificacion"
+            android:title="Verificación" />
+    </group>
+
+    <item android:title="Recargas">
+        <menu>
+            <item
+                android:id="@+id/nav_venta_recarga"
+                android:icon="@drawable/ic_venta"
+                android:title="Venta" />
+            <item
+                android:id="@+id/nav_consultas_recargas"
+                android:icon="@drawable/ic_consultas"
+                android:title="Consultas" />
+        </menu>
+    </item>
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/nav_change_password"
+                android:icon="@drawable/ic_cambio_clave"
+                android:title="Cambio Clave" />
+            <item
+                android:id="@+id/nav_total_sale"
+                android:icon="@drawable/ic_total_venta"
+                android:title="Total Venta" />
+
+            <item
+                android:id="@+id/nav_exit_app"
+                android:icon="@drawable/ic_exit_24dp"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>

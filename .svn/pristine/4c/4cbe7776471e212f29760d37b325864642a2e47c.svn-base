@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\banca.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\menu\\banca.xml"
+    },
+    {
+        "merged": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Desarrollo\\Movil\\Android\\OtrosProductosRD\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

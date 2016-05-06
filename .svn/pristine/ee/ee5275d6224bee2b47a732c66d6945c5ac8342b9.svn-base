@@ -1,0 +1,87 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="co.playtech.otrosproductosrd.fragments.TotalVentaFragment">
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lblTitleTotalVenta"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/colorPrimaryText"
+        android:textStyle="bold"/>
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:elevation="5dp"
+        android:minHeight="@dimen/min_height">
+
+        <ImageView
+            android:id="@+id/ivDateInit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_today_24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/tvDateInit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_date_init"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:elevation="5dp"
+        android:minHeight="@dimen/min_height">
+
+        <ImageView
+            android:id="@+id/ivDateEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_today_24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"/>
+
+        <TextView
+            android:id="@+id/tvDateEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_date_end"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnConsultarTotalVenta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lblConsultar"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/selector_buttton"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"/>
+
+
+</LinearLayout>

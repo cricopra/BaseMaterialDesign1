@@ -1,0 +1,78 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="co.playtech.otrosproductosrd.fragments.AutenticarFragment"
+    android:gravity="center_vertical"
+    android:background="@mipmap/background">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_weight="0"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/header_login"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:paddingBottom="@dimen/padding_login"
+        android:paddingTop="@dimen/padding_login">
+
+        <EditText
+            android:id="@+id/etUsuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_login"
+            android:layout_marginRight="@dimen/margin_login"
+            android:inputType="number"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:paddingLeft="16dp"
+            android:hint="@string/hint_usuario"/>
+
+        <EditText
+            android:id="@+id/etClave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_login"
+            android:layout_marginRight="@dimen/margin_login"
+            android:inputType="numberPassword"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:paddingLeft="16dp"
+            android:hint="@string/hint_contrasena"/>
+
+        <Button
+            android:id="@+id/btnAutenticar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lblAutenticar"
+            android:layout_marginLeft="@dimen/margin_login"
+            android:background="@drawable/selector_buttton"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:layout_marginRight="@dimen/margin_login"/>
+
+        <TextView
+            android:id="@+id/tvConfiguracion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblConfiguracion"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+
+
+</LinearLayout>

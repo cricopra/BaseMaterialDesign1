@@ -1,0 +1,125 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="co.playtech.otrosproductosrd.fragments.VentaRecargaFragment"
+    android:layout_marginTop="@dimen/label_bottom_margin">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lblTitleRecargas"
+        android:textColor="@color/colorPrimaryText"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/label_bottom_margin"
+        android:layout_marginRight="@dimen/label_bottom_margin"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblOperador"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Spinner
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:id="@+id/spnOperadorRecarga"
+            android:layout_alignParentRight="true"
+            android:spinnerMode="dialog"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/label_bottom_margin"
+        android:layout_marginRight="@dimen/label_bottom_margin"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblNumero"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:id="@+id/etNumeroRecarga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:singleLine="true"
+            android:hint="@string/hint_celular"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/label_bottom_margin"
+        android:layout_marginRight="@dimen/label_bottom_margin"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lblValor"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryText"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:id="@+id/etValorRecarga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:singleLine="true"
+            android:hint="@string/hint_valor"
+            android:gravity="center_horizontal|center_vertical"
+            android:textColor="@color/colorSecondaryText"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btnRecargar"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_buttton"
+        android:text="@string/btn_recargar"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/label_bottom_margin"
+        android:layout_marginRight="@dimen/label_bottom_margin"/>
+
+</LinearLayout>
